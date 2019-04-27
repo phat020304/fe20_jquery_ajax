@@ -3,6 +3,10 @@ $(document).ready(function(){
 
     layDanhSachNguoiDung();
 
+    function moiTaoBranch(){
+        
+    }
+
     function setHeaderFooterModal(title, titleButton, idButton){
         $(".modal-title").html(title);
 
