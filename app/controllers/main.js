@@ -4,7 +4,7 @@ $(document).ready(function(){
     layDanhSachNguoiDung();
 
     function moiTaoBranch(){
-        
+        console.log("thêm");
     }
 
     function setHeaderFooterModal(title, titleButton, idButton){
